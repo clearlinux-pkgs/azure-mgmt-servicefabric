@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-servicefabric
 Version  : 0.4.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/b3/70/c56151be8560b525d9df9771e57c8ff8982ec946b28244d81b4a52609794/azure-mgmt-servicefabric-0.4.0.zip
 Source0  : https://files.pythonhosted.org/packages/b3/70/c56151be8560b525d9df9771e57c8ff8982ec946b28244d81b4a52609794/azure-mgmt-servicefabric-0.4.0.zip
 Summary  : Microsoft Azure Service Fabric Management Client Library for Python
